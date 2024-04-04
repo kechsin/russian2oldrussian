@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+  <alphabet>АаБбВвГгДдЖжЗзИиІіЇїЙйКкЛлМмНнОоПпРрСсТтУуФфХхЦцЧчШшЩщЪъЫыЬьЭэѠѡѢѣѤѥѦѧѨѩѪѫѬѭѮѯѰѱѲѳѴѵѶѷѸѹѼѽѾѿꙀꙁꙂꙃ</alphabet>
+  <sdefs>
+    <sdef n="n"/>
+    <sdef n="sg"/>
+    <sdef n="pl"/>
+  </sdefs>
+  <pardefs>
+
+  </pardefs>
+  <section id="main" type="standard">
+    <e lm="живот"><i>живот</i><par n="живот__n"/></e>
+  </section>
+  <pardef n="живот__n">
+   <e>
+     <p>
+       <l></l>
+       <r><s n="n"/><s n="sg"/></r>
+     </p>
+   </e>
+   <e>
+     <p>
+       <l>ы</l>
+       <r><s n="n"/><s n="pl"/></r>
+     </p>
+   </e>
+</pardef>
+</dictionary>
