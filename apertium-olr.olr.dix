@@ -20,7 +20,8 @@
     <sdef n="n"/>
   </sdefs>
   <pardefs>
-    <pardef n="*a-склон">
+    <!-- PARDEFS: Nouns -->  
+    <pardef n="n_*a-склон_f">
       <e><p><l>а</l><r><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>ы</l><r><s n="sg"/><s n="gen"/></r></p></e>
       <e><p><l>ѣ</l><r><s n="sg"/><s n="dat"/></r></p></e>
@@ -40,7 +41,7 @@
       <e><p><l>ами</l><r><s n="pl"/><s n="ins"/></r></p></e>
       <e><p><l>ахъ</l><r><s n="pl"/><s n="loc"/></r></p></e>
     </pardef>
-	<pardef n="*ja-склон f">
+	<pardef n="n_*ja-склон_f">
       <e><p><l>ѧ</l><r><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>ѣ</l><r><s n="sg"/><s n="gen"/></r></p></e>
       <e><p><l>и</l><r><s n="sg"/><s n="dat"/></r></p></e>
@@ -60,7 +61,7 @@
       <e><p><l>ѧми</l><r><s n="pl"/><s n="ins"/></r></p></e>
       <e><p><l>ѧхъ</l><r><s n="pl"/><s n="loc"/></r></p></e>
     </pardef>
-	<pardef n="*ja-склон f">
+	<pardef n="n_*ja-склон_f">
       <e><p><l>ѧ</l><r><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>ѣ</l><r><s n="sg"/><s n="gen"/></r></p></e>
       <e><p><l>и</l><r><s n="sg"/><s n="dat"/></r></p></e>
@@ -80,7 +81,7 @@
       <e><p><l>ѧми</l><r><s n="pl"/><s n="ins"/></r></p></e>
       <e><p><l>ѧхъ</l><r><s n="pl"/><s n="loc"/></r></p></e>
     </pardef>
-	<pardef n="*o-склон m">
+	<pardef n="n_*o-склон_m">
       <e><p><l>ъ</l><r><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>а</l><r><s n="sg"/><s n="gen"/></r></p></e>
       <e><p><l>оу</l><r><s n="sg"/><s n="dat"/></r></p></e>
@@ -100,7 +101,7 @@
       <e><p><l>ы</l><r><s n="pl"/><s n="ins"/></r></p></e>
       <e><p><l>ѣхъ</l><r><s n="pl"/><s n="loc"/></r></p></e>
     </pardef>
-	<pardef n="*o-склон n">
+	<pardef n="n_*o-склон_n">
       <e><p><l>о</l><r><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>а</l><r><s n="sg"/><s n="gen"/></r></p></e>
       <e><p><l>оу</l><r><s n="sg"/><s n="dat"/></r></p></e>
@@ -120,7 +121,7 @@
       <e><p><l>ы</l><r><s n="pl"/><s n="ins"/></r></p></e>
       <e><p><l>ѣхъ</l><r><s n="pl"/><s n="loc"/></r></p></e>
     </pardef>
-	<pardef n="*jo-склон m">
+	<pardef n="n_*jo-склон_m">
       <e><p><l>ь</l><r><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>ѧ</l><r><s n="sg"/><s n="gen"/></r></p></e>
       <e><p><l>ю</l><r><s n="sg"/><s n="dat"/></r></p></e>
@@ -140,7 +141,47 @@
       <e><p><l>и</l><r><s n="pl"/><s n="ins"/></r></p></e>
       <e><p><l>ихъ</l><r><s n="pl"/><s n="loc"/></r></p></e>
     </pardef>
-	<pardef n="*u-склон m">
+	<pardef n="n_*jo-склон_n">
+      <e><p><l>е</l><r><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ѧ</l><r><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>ю</l><r><s n="sg"/><s n="dat"/></r></p></e>
+      <e><p><l>е</l><r><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>ьмь</l><r><s n="sg"/><s n="ins"/></r></p></e>
+      <e><p><l>и</l><r><s n="sg"/><s n="loc"/></r></p></e>
+      <e><p><l>ѧ</l><r><s n="du"/><s n="nom"/></r></p></e>
+      <e><p><l>ю</l><r><s n="du"/><s n="gen"/></r></p></e>
+      <e><p><l>ема</l><r><s n="du"/><s n="dat"/></r></p></e>
+      <e><p><l>ѧ</l><r><s n="du"/><s n="acc"/></r></p></e>
+      <e><p><l>ема</l><r><s n="du"/><s n="ins"/></r></p></e>
+      <e><p><l>ю</l><r><s n="du"/><s n="loc"/></r></p></e>
+	  <e><p><l>и</l><r><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>ь</l><r><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>емъ</l><r><s n="pl"/><s n="dat"/></r></p></e>
+      <e><p><l>ѣ</l><r><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>и</l><r><s n="pl"/><s n="ins"/></r></p></e>
+      <e><p><l>ихъ</l><r><s n="pl"/><s n="loc"/></r></p></e>
+    </pardef>
+	<pardef n="n_*jo-склон_n_(ѥ)">
+      <e><p><l>ѥ</l><r><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ѧ</l><r><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>ю</l><r><s n="sg"/><s n="dat"/></r></p></e>
+      <e><p><l>ѥ</l><r><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>ьмь</l><r><s n="sg"/><s n="ins"/></r></p></e>
+      <e><p><l>и</l><r><s n="sg"/><s n="loc"/></r></p></e>
+      <e><p><l>ѧ</l><r><s n="du"/><s n="nom"/></r></p></e>
+      <e><p><l>ю</l><r><s n="du"/><s n="gen"/></r></p></e>
+      <e><p><l>ѥма</l><r><s n="du"/><s n="dat"/></r></p></e>
+      <e><p><l>ѧ</l><r><s n="du"/><s n="acc"/></r></p></e>
+      <e><p><l>ѥма</l><r><s n="du"/><s n="ins"/></r></p></e>
+      <e><p><l>ю</l><r><s n="du"/><s n="loc"/></r></p></e>
+	  <e><p><l>и</l><r><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>ь</l><r><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>ѥмъ</l><r><s n="pl"/><s n="dat"/></r></p></e>
+      <e><p><l>ѣ</l><r><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>и</l><r><s n="pl"/><s n="ins"/></r></p></e>
+      <e><p><l>ихъ</l><r><s n="pl"/><s n="loc"/></r></p></e>
+    </pardef>
+	<pardef n="n_*u-склон_m">
       <e><p><l>ъ</l><r><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>оу</l><r><s n="sg"/><s n="gen"/></r></p></e>
       <e><p><l>ови</l><r><s n="sg"/><s n="dat"/></r></p></e>
@@ -160,7 +201,7 @@
       <e><p><l>ъми</l><r><s n="pl"/><s n="ins"/></r></p></e>
       <e><p><l>ъхъ</l><r><s n="pl"/><s n="loc"/></r></p></e>
     </pardef>
-	<pardef n="*i-склон f">
+	<pardef n="n_*i-склон_f">
       <e><p><l>ь</l><r><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>и</l><r><s n="sg"/><s n="gen"/></r></p></e>
       <e><p><l>и</l><r><s n="sg"/><s n="dat"/></r></p></e>
@@ -180,7 +221,7 @@
       <e><p><l>ьми</l><r><s n="pl"/><s n="ins"/></r></p></e>
       <e><p><l>ьхъ</l><r><s n="pl"/><s n="loc"/></r></p></e>
     </pardef>
-	<pardef n="*i-склон m">
+	<pardef n="n_*i-склон_m">
       <e><p><l>ь</l><r><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>и</l><r><s n="sg"/><s n="gen"/></r></p></e>
       <e><p><l>и</l><r><s n="sg"/><s n="dat"/></r></p></e>
@@ -200,7 +241,7 @@
       <e><p><l>ьми</l><r><s n="pl"/><s n="ins"/></r></p></e>
       <e><p><l>ьхъ</l><r><s n="pl"/><s n="loc"/></r></p></e>
     </pardef>
-	<pardef n="*C-склон m (ен)">
+	<pardef n="n_*C-склон_m_(ен)">
       <e><p><l>ы</l><r><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>ене</l><r><s n="sg"/><s n="gen"/></r></p></e>
       <e><p><l>ени</l><r><s n="sg"/><s n="dat"/></r></p></e>
@@ -220,7 +261,7 @@
       <e><p><l>еньми</l><r><s n="pl"/><s n="ins"/></r></p></e>
       <e><p><l>еньхъ</l><r><s n="pl"/><s n="loc"/></r></p></e>
     </pardef>
-	<pardef n="*C-склон m">
+	<pardef n="n_*C-склон_m">
       <e><p><l>ь</l><r><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>е</l><r><s n="sg"/><s n="gen"/></r></p></e>
       <e><p><l>и</l><r><s n="sg"/><s n="dat"/></r></p></e>
@@ -240,7 +281,7 @@
       <e><p><l>ьми</l><r><s n="pl"/><s n="ins"/></r></p></e>
       <e><p><l>ьхъ</l><r><s n="pl"/><s n="loc"/></r></p></e>
     </pardef>
-	<pardef n="*C-склон n (ен)">
+	<pardef n="n_*C-склон_n_(ен)">
       <e><p><l>ѧ</l><r><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>ене</l><r><s n="sg"/><s n="gen"/></r></p></e>
       <e><p><l>ени</l><r><s n="sg"/><s n="dat"/></r></p></e>
@@ -260,7 +301,7 @@
       <e><p><l>ены</l><r><s n="pl"/><s n="ins"/></r></p></e>
       <e><p><l>еньхъ</l><r><s n="pl"/><s n="loc"/></r></p></e>
     </pardef>
-	<pardef n="*C-склон n (ѧт)">
+	<pardef n="n_*C-склон_n_(ѧт)">
       <e><p><l>ѧ</l><r><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>ѧте</l><r><s n="sg"/><s n="gen"/></r></p></e>
       <e><p><l>ѧти</l><r><s n="sg"/><s n="dat"/></r></p></e>
@@ -280,7 +321,7 @@
       <e><p><l>ѧты</l><r><s n="pl"/><s n="ins"/></r></p></e>
       <e><p><l>ѧтьхъ</l><r><s n="pl"/><s n="loc"/></r></p></e>
     </pardef>
-	<pardef n="*C-склон n (ес)">
+	<pardef n="n_*C-склон_n_(ес)">
       <e><p><l>о</l><r><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>есе</l><r><s n="sg"/><s n="gen"/></r></p></e>
       <e><p><l>еси</l><r><s n="sg"/><s n="dat"/></r></p></e>
@@ -300,7 +341,7 @@
       <e><p><l>есы</l><r><s n="pl"/><s n="ins"/></r></p></e>
       <e><p><l>есьхъ</l><r><s n="pl"/><s n="loc"/></r></p></e>
     </pardef>
-	<pardef n="*C-склон f (ер)">
+	<pardef n="n_*C-склон_f_(ер)">
       <e><p><l>и</l><r><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>ере</l><r><s n="sg"/><s n="gen"/></r></p></e>
       <e><p><l>ери</l><r><s n="sg"/><s n="dat"/></r></p></e>
@@ -320,7 +361,7 @@
       <e><p><l>ерьми</l><r><s n="pl"/><s n="ins"/></r></p></e>
       <e><p><l>ерьхъ</l><r><s n="pl"/><s n="loc"/></r></p></e>
     </pardef>
-	<pardef n="*C-склон f (ъв)">
+	<pardef n="n_*C-склон_f_(ъв)">
       <e><p><l>ы</l><r><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>ъве</l><r><s n="sg"/><s n="gen"/></r></p></e>
       <e><p><l>ъви</l><r><s n="sg"/><s n="dat"/></r></p></e>
@@ -343,7 +384,14 @@
   </pardefs>
   <section id="main" type="standard">
     <e lm="живот"><i>живот</i><par n="живот__n"/></e>
+	<e lm="кум"><p><l>кум</l><r>кум</r></p><par n="n_*o-склон_m"/></e>
+	<e lm="аблань"><p><l>аблан</l><r>аблань</r></p><par n="n_*i-склон_f"/></e>
+	<e lm="аблъко"><p><l>аблък</l><r>аблъко</r></p><par n="n_*o-склон_n"/></e>
+	<e lm="аблоко"><p><l>аблок</l><r>аблоко</r></p><par n="n_*o-склон_n"/></e>
+	<e lm="абрѣдиѥ"><p><l>абрѣди</l><r>абрѣдиѥ</r></p><par n="n_*jo-склон_n_(ѥ)"/></e>
+	<e lm="абрѣдьѥ"><p><l>абрѣдь</l><r>абрѣдьѥ</r></p><par n="n_*jo-склон_n_(ѥ)"/></e>
   </section>
+      <!-- Ниже первый эксперимент с парадигмами но я на всякий случай не буду выкидывать пока, вдруг это хорошее.  -->  
   <pardef n="живот__n">
    <e>
      <p>
