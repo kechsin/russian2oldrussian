@@ -18,7 +18,7 @@ for i in nouns:
         continue
     if i[-1] == "ъ":
         if i in ["cынъ", "врьхъ", "полъ", "волъ", "медъ", "ледъ"]:
-            words2.append([i, "сущ", "n_u-склон_n"])
+            words2.append([i, "сущ", "n_u-склон_m"])
             continue
         words2.append([i, "сущ", "n_o-склон_m"])
         continue
