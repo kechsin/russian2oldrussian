@@ -880,42 +880,6 @@
       <e><p><l>иимь</l><r><s n="imper"/><s n="p1"/><s n="pl"/></r></p></e>
       <e><p><l>ите</l><r><s n="imper"/><s n="p2"/><s n="pl"/></r></p></e>
     </pardef>
-    <pardef n="v_ести_hard">
-      <e><p><l>сти</l><r><s n="inf"/></r></p></e>
-      <e><p><l>мь</l><r><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e><p><l>си</l><r><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e><p><l>сть</l><r><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e><p><l>вѣ</l><r><s n="pres"/><s n="p1"/><s n="du"/></r></p></e>
-      <e><p><l>ста</l><r><s n="pres"/><s n="p2"/><s n="du"/></r></p></e>
-      <e><p><l>ста</l><r><s n="pres"/><s n="p3"/><s n="du"/></r></p></e>
-      <e><p><l>мъ</l><r><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e><p><l>те</l><r><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e><p><l>дѧтъ</l><r><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
-      <e><p><l>хъ</l><r><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e><p><l></l><r><s n="aor"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e><p><l></l><r><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e><p><l>ховѣ</l><r><s n="aor"/><s n="p1"/><s n="du"/></r></p></e>
-      <e><p><l>ста</l><r><s n="aor"/><s n="p2"/><s n="du"/></r></p></e>
-      <e><p><l>ста</l><r><s n="aor"/><s n="p3"/><s n="du"/></r></p></e>
-      <e><p><l>хомъ</l><r><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e><p><l>сте</l><r><s n="aor"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e><p><l>шѧ</l><r><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
-      <e><p><l>дяхъ</l><r><s n="impf"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e><p><l>дяше</l><r><s n="impf"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e><p><l>дяше</l><r><s n="impf"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e><p><l>дяховѣ</l><r><s n="impf"/><s n="p1"/><s n="du"/></r></p></e>
-      <e><p><l>дяста</l><r><s n="impf"/><s n="p2"/><s n="du"/></r></p></e>
-      <e><p><l>дяста</l><r><s n="impf"/><s n="p3"/><s n="du"/></r></p></e>
-      <e><p><l>дяхомъ</l><r><s n="impf"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e><p><l>дясте</l><r><s n="impf"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e><p><l>дяхъ</l><r><s n="impf"/><s n="p3"/><s n="pl"/></r></p></e>
-      <e><p><l>жь</l><r><s n="imper"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e><p><l>жь</l><r><s n="imper"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e><p><l>дивѣ</l><r><s n="imper"/><s n="p1"/><s n="du"/></r></p></e>
-      <e><p><l>дита</l><r><s n="imper"/><s n="p2"/><s n="du"/></r></p></e>
-      <e><p><l>димь</l><r><s n="imper"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e><p><l>дите</l><r><s n="imper"/><s n="p2"/><s n="pl"/></r></p></e>
-    </pardef>
     <pardef n="v_ѣсти">
       <e><p><l>сти</l><r><s n="inf"/></r></p></e>
       <e><p><l>мь</l><r><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
