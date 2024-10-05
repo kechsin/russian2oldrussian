@@ -28,6 +28,8 @@ for i in verbs:
         v_type = "v_у-ти_soft"
     elif i[-3:] == "ати":
         v_type = "v_а-ти_soft"
+    else:
+        continue
     words2.append([i, "гл", v_type])
 
 with open("verbs_with_declensions.txt", "w", encoding="utf8") as f:
