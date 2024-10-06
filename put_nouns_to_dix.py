@@ -8,7 +8,7 @@ for i in nouns:
     line = f'    <e lm="{i[0]}"><p><l>{stem}</l><r>{i[0]}</r></p><par n="{i[1]}"/></e>\n'
     to_write.append(line)
 to_write.append("</section>\n")
-to_write.append("</dictionary>  ")
+to_write.append("</dictionary>")
 
-with open("apertium-rus-olr.olr.dix", "a", encoding="utf8") as f:
+with open("apertium-rus-orv.orv.dix", "a", encoding="utf8") as f:
     f.writelines(to_write)
