@@ -25,9 +25,9 @@ for i in verbs:
     elif i[-3:] == "яти":
         v_type = "v_я-ти_soft"
     elif i[-3:] == "ути":
-        v_type = "v_у-ти_soft"
+        v_type = "v_у-ти_hard"
     elif i[-3:] == "ати":
-        v_type = "v_а-ти_soft"
+        v_type = "v_а-ти_hard"
     else:
         continue
     words2.append([i, "гл", v_type])
