@@ -3,6 +3,7 @@
 crawler бегает по http://lib.pushkinskijdom.ru/Default.aspx?tabid=2070 и находит ссылки на все тексты и кладёт их в texts_urls.  text_taker проходит по этому списку и собирает файлы в папку texts. errors собирает если что-то в краулере хотело выдать ошибку, wrong_len собирает если что-то в text_taker'e получилось с разным количеством переводов и оригиналов.
 ### Apertium-файлы
 Здесь находятся не все файлы, необходимые для Apertium, а только те, которые я меняла или использовала для ориентира.
+Все файлы есть в https://github.com/kechsin/apertium-rus-orv.
 apertium-rus-olr.rus.dix и apertium-rus-olr.olr.dix - морфологические словари. Второй из них я составляла, а первый использовала как образец для второго.
 apertium-rus-olr.rus-olr.dix - двуязычный словарь.
 apertium-rus-olr.rus-olr.t1x - правила трансфера.
